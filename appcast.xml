@@ -3,6 +3,20 @@
     <channel>
         <title>MailMate</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 26 Aug 2026 21:01:01 -0500</pubDate>
+            <link>https://github.com/dankelleghan-ops/mailmate-releases</link>
+            <sparkle:version>202608262058</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate-1.1.0-202608262058.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate-1.1.0-202608262058.dmg" length="3906362" type="application/octet-stream" sparkle:edSignature="rtJbekWX//8NS3r/IbOXV88uyqjGRXIKWc5/a0iOVW2rupm+VHZrOB5/A5clG0/g+H49lOW5U9PiNjjHmykWBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202608262058-202608261940.delta" sparkle:deltaFrom="202608261940" length="292834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w81kbymv3TtwqjGnSoeJGbCEJg2GN8N5HpEqlP52YAxk4je/HYzkezumyQWrhwcfHUgh4+SkY0g0dIFtn1znAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202608262058-202608261914.delta" sparkle:deltaFrom="202608261914" length="293818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+AaDUUrwSJ0Kfp/cR4FhfJYyZnFJrrXN1EB7yJ9Z5hkF2J0+Z2BMblIpyMeVFn69glyuz8h+CxPAryxuUML3Cw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 26 Aug 2026 19:42:25 -0500</pubDate>
             <link>https://github.com/dankelleghan-ops/mailmate-releases</link>
