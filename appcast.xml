@@ -3,6 +3,23 @@
     <channel>
         <title>MailMate</title>
         <item>
+            <title>1.22.0</title>
+            <pubDate>Mon, 07 Sep 2026 21:27:52 -0500</pubDate>
+            <link>https://github.com/dankelleghan-ops/mailmate-releases</link>
+            <sparkle:version>202609072125</sparkle:version>
+            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate-1.22.0-202609072125.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate-1.22.0-202609072125.dmg" length="4314028" type="application/octet-stream" sparkle:edSignature="eAcZfV6EQiJkL6BdsstZYdot6W97clNZX6UjHjH5wnQATBL9CxdVvUwzmMv0Lus3TwSha0dkhWQGTtl+54qHBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072125-202609072101.delta" sparkle:deltaFrom="202609072101" length="246822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dg50HyB1y/Zxg9C8CBGLt6nDviWeQj4IoD/zd+g2PozBXM2ZjQz+7zEB8mIy0lSRFvRTcREOH1jCF7A52laoCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072125-202609072029.delta" sparkle:deltaFrom="202609072029" length="279310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lARFaX/Ay1xVBJnh95k/ln0K7OLK0qaBtdP/u2Jc68XCvZ5rv52gRzlMBV9+43193VJN+wSWE1lbA30v8wAGDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072125-202609072016.delta" sparkle:deltaFrom="202609072016" length="299754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ACPP+5PS4CP3rMna86qAH4+vQ1PGACvhrJkpFu5jLNtfwvPTyxf4/TPY8QXuMVVGqZQ7UBor7Lg9GQL0Ab56CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072125-202609071957.delta" sparkle:deltaFrom="202609071957" length="302918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xe6Eer3aMNNr1fa4MCHqEiVBGnf/eiau6gPqupFVM5wV9UcF0VAim+8E0MkQLEGRebVxEGqgTqJFDGvyPKJhDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072125-202609041240.delta" sparkle:deltaFrom="202609041240" length="352210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QJukEU1pPSONmDBmJR7Wte5eHfY3MjiCwO1/DmMPGdxm/OWjUc4jRWb4C68EL9eVIdla22YyYLbPGhzUnaFKAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.21.0</title>
             <pubDate>Mon, 07 Sep 2026 21:03:21 -0500</pubDate>
             <link>https://github.com/dankelleghan-ops/mailmate-releases</link>
@@ -34,23 +51,6 @@
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072029-202609041240.delta" sparkle:deltaFrom="202609041240" length="302890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4I+ETnTkblr1JpdgyjYhkp/VnU/VM0rzsZ4Az94SbKl4nyFaCRYcFH3TYO7pn/WuVxaEe3OlapFQXyOcVcttDw=="/>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072029-202609041214.delta" sparkle:deltaFrom="202609041214" length="323170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pc2zIPeaCcwR2ZLxZ9rfJ9kLzAbKGjFn2Av/aRa5b8WhdzpAnnOlcmPBZl1ODIRgBVDHSL+ARvS4Qvyto6PnAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072029-202609040932.delta" sparkle:deltaFrom="202609040932" length="333618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gx79AJAU33moPX4Zd+2H8fIybJqOpGgl5HQc+F+4YtaboDVSVs96oTaOgwtRZ/kA/uvyHX+kwfAFQeR3ddF9AA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.20.1</title>
-            <pubDate>Mon, 07 Sep 2026 20:19:07 -0500</pubDate>
-            <link>https://github.com/dankelleghan-ops/mailmate-releases</link>
-            <sparkle:version>202609072016</sparkle:version>
-            <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate-1.20.1-202609072016.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate-1.20.1-202609072016.dmg" length="4303795" type="application/octet-stream" sparkle:edSignature="9fQOUSJ2MMG8giuTI3LS/YMsUiXJgRrqoG+/iVjVdSIcmcCUlwWJLVzpX9gjxu88YBhaD01HQGPQIlKubM3aDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072016-202609071957.delta" sparkle:deltaFrom="202609071957" length="181726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yr9HEFngC/pHo645MeXOJU4xvSKaDjC/du6Dd8y2EGKEVOZaqHVjmwDhodhjuVZut4MNgrPiarqFFoZIlzFGDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072016-202609041240.delta" sparkle:deltaFrom="202609041240" length="295962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ujoZkfR9kRjxJnK2T45BZzo1lXelrDq2NiAPKt1YiE4GaNiVdE9EP8iLoIATRobq1xyPTS4OnEQcAcSGVVWmAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072016-202609041214.delta" sparkle:deltaFrom="202609041214" length="312930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+tGMUkP4yKVttEPErFsMTyxhEILjaGoam98KLyG0MJ/LU02qUK4BelZvBBhhYVH4UWGIc/QX/A9rs2FY1oNcDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072016-202609040932.delta" sparkle:deltaFrom="202609040932" length="327794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NJjO/o+F+bkSIpKIvHCKmqDLKkqGUEaWkdGCNkxfcTz5uvL38svwHntWE9BhfS8gs3LCTl0ysN1UiHOmI/Y6BA=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/MailMate202609072016-202609030821.delta" sparkle:deltaFrom="202609030821" length="329330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xDuM/kJVkUD5TrXP6j2SsYEPthce0iAmApJJtyegoxEBwgX5SiVR+u5EdU5xJg9w4zPnOe71ZyEbLM/StSlzAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
