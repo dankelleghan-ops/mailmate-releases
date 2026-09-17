@@ -1,0 +1,8 @@
+{
+  "version": "1.7.2",
+  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.7.2.zip",
+  "sha256": "72cb1e96841e012c9db1d5307d1659b6e96a1be98fddf4a20aebcaee4c34c1bf",
+  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.7.2.dmg",
+  "notes": "First notarized installer DMG for friends: Install MailMate Gmail Tracking.app + a background updater, since Chrome never auto-updates a Load-unpacked extension.",
+  "publishedAt": "2026-09-17T00:46:15Z"
+}
