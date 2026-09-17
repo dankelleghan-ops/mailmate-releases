@@ -1,8 +1,8 @@
 {
-  "version": "1.7.3",
-  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.7.3.zip",
-  "sha256": "8afbe36e679f942da962431b0f973f29f9767033126b01fe835694b8a03200d0",
-  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.7.3.dmg",
-  "notes": "Options page links the tracker setup guide",
-  "publishedAt": "2026-09-17T00:56:19Z"
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.8.0.zip",
+  "sha256": "f7ab20c4fd3c50baea5cf84ad9d17b69e23eb57fac3cf15417a9746e8e235325",
+  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.8.0.dmg",
+  "notes": "Guided tracking setup on first install",
+  "publishedAt": "2026-09-17T01:22:13Z"
 }
