@@ -1,8 +1,8 @@
 {
-  "version": "1.8.1",
-  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.8.1.zip",
-  "sha256": "1f407f5eb6c9e462d00c429e8c270a2d4fa8ebbde62a2c228e9a5093a8656c4b",
-  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.8.1.dmg",
-  "notes": "Which one first, one paste from MailMate, wait-for-deploy guidance, and a Something not working? troubleshooting checklist",
-  "publishedAt": "2026-09-17T02:00:00Z"
+  "version": "1.9.0",
+  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.9.0.zip",
+  "sha256": "a400d6350d97050261e3b71e670aa03029ca5cf15dd7a0598fb2308cd691b657",
+  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.9.0.dmg",
+  "notes": "Reader names are matched and mined from Gmail's own DOM instead of guessed from the address (ports the Mac app's RecipientName resolver)",
+  "publishedAt": "2026-09-23T17:01:38Z"
 }
