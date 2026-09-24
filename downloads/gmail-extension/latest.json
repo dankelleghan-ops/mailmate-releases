@@ -1,8 +1,8 @@
 {
-  "version": "1.9.1",
-  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.9.1.zip",
-  "sha256": "e8bd24f01a68ec3960d2cf229132a4859e262dac7a480d73c7515e0c1d8dadd7",
-  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.9.1.dmg",
-  "notes": "Fix package.sh omitting recipientName.js from the shipped zip/DMG (1.9.0 would not have loaded)",
-  "publishedAt": "2026-09-23T17:05:36Z"
+  "version": "1.9.2",
+  "url": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/mailmate-gmail-tracking-1.9.2.zip",
+  "sha256": "b364c5fa95569e2323f0d7fb28f6b956f04509072f2972fee7cbab1043943fb1",
+  "dmgUrl": "https://raw.githubusercontent.com/dankelleghan-ops/mailmate-releases/main/downloads/gmail-extension/MailMate-Gmail-Tracking-1.9.2.dmg",
+  "notes": "Group emails: opens show how many different devices opened it (for example \"28 devices · 69×\") instead of calling everyone \"Someone\".",
+  "publishedAt": "2026-09-24T03:05:23Z"
 }
